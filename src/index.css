@@ -1,0 +1,18 @@
+.icon-display {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ height: 100vh;
+}
+
+button {
+ background-color: purple;
+ color: yellow;
+ font-family: cursive;
+ border: none;
+ width: 200px;
+ height: 50px;
+ border-radius: 24px;
+ cursor: pointer;
+}
